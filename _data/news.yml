@@ -1,5 +1,33 @@
 # Vision Lab news feed (used by /news/)
 # body: Markdown (inline links to people, demos, publications)
+- date: '2026-09-17'
+  body: >-
+    INSAIT wraps up ECCV 2026 in Malmö with 10 main-track papers, ranking 5th
+    among EU institutions. Work presented there includes [FrameWorkers](/demos/frameworkers/),
+    [VOID](/demos/void/), event-camera video reconstruction, and cross-view video
+    generation, alongside GAIA, OpenSUN3D, and the Articulate3D Challenge.
+  link_url: https://insait.ai/insait-wraps-up-eccv-2026-in-malmo/
+- date: '2026-09-11'
+  body: >-
+    ECCV 2026 is underway in Malmö. INSAIT brings 10 main-track papers spanning
+    event-based video reconstruction, multimodal retrieval, weather synthesis,
+    video editing, 3D motion, and agents for visual workflows, with live demos
+    at booth #28.
+  link_url: https://insait.ai/insait-brings-cutting-edge-ai-research-to-eccv-2026/
+- date: '2026-09-08'
+  body: >-
+    INSAIT announces 10 accepted papers at ECCV 2026, plus a workshop paper, a
+    demo, and two co-organized workshops and challenges. The program covers robotics,
+    spatial reasoning, egocentric vision, Earth observation, visual agents, and
+    agentic vision.
+  link_url: https://insait.ai/insait-with-10-accepted-papers-at-the-european-conference-on-computer-vision-eccv-2026/
+- date: '2026-09-07'
+  body: >-
+    The second [GAIA](/demos/gaia/) workshop on Geospatial AI and Foundation Models
+    is held at ECCV 2026. The program covers vision-language models for remote
+    sensing, spatial reasoning, multimodal fusion, generative Earth simulation,
+    and foundation models for extraterrestrial data.
+  link_url: https://insait.ai/the-second-edition-of-gaia-at-eccv-2026/
 - date: '2026-08-13'
   body: >-
     [Mario Markov](/people/mario-markov/) discusses [FireScope](/demos/firescope/)
@@ -7,12 +35,52 @@
     into a long-term prevention and decision-support tool. FireScope is now available
     in Bulgarian and 42 additional languages across Europe and Asia.
   link_url: https://insait.ai/how-can-ai-help-us-better-understand-and-prevent-wildfire-risk/
+- date: '2026-08-05'
+  body: >-
+    [FireScope](/demos/firescope/) expands across a large part of Asia, with localized
+    explanations in 43 languages. On the Asian evaluation it assigns higher long-term
+    risk to burned locations more reliably than the Fire Weather Index.
+  link_url: https://insait.ai/firescope-ai-is-expanding-to-asia/
+- date: '2026-07-03'
+  body: >-
+    [FireScope](/demos/firescope/) leads Bulgaria's national television morning
+    show. [Mario Markov](/people/mario-markov/) explains how the wildfire-risk
+    map turns satellite and climate signals into a practical prevention tool.
+  link_url: https://insait.ai/firescope-ai-featured-on-national-television-as-a-leading-story/
+- date: '2026-06-22'
+  body: >-
+    Five group researchers are named CVPR 2026 Outstanding Reviewers, a distinction
+    given to the top 5% of 17,491 reviewers: [Anna-Maria Halacheva](/people/anna-maria-halacheva/),
+    [Nedyalko Prisadnikov](/people/nedyalko-prisadnikov/), [Stefan Ailuro](/people/stefan-ailuro/),
+    [Nikola Popovic](/people/nikola-popovic/), and [Danda Paudel](/people/danda-paudel/).
+  link_url: https://insait.ai/insait-researchers-recognized-as-cvpr-2026-outstanding-reviewers/
+- date: '2026-06-21'
+  body: >-
+    Aleksandar Yanev, a third-year student at Sofia University and an EXPLORER
+    fellow, becomes the first Bulgarian university student to co-author a CVPR
+    paper. The paper is [SPEAR-1](/demos/spear-1/), a robotics foundation model
+    trained with 3D understanding.
+  link_url: https://insait.ai/first-bulgarian-university-student-to-co-author-a-cvpr-paper/
 - date: '2026-06-08'
   body: >-
     INSAIT [showcases 17 accepted papers at CVPR 2026](https://insait.ai/insait-showcases-17-accepted-papers-and-emerging-ai-research-at-cvpr-2026/)
     at booth #440 in Denver, with live demos across robotics, spatial reasoning, earth
     observation, egocentric vision, visual agents, and visual media.
   link_url: https://insait.ai/insait-showcases-17-accepted-papers-and-emerging-ai-research-at-cvpr-2026/
+- date: '2026-06-02'
+  body: >-
+    [SPEAR-1](/demos/spear-1/) is presented at CVPR 2026. The model reaches state-of-the-art
+    robot manipulation while using about 20x less robotics data, by pretraining
+    on both robot demonstrations and abundant non-robot 3D data.
+  link_url: https://insait.ai/spear-1-is-coming-to-cvpr-2026/
+- date: '2026-05-29'
+  body: >-
+    [FireScope](/demos/firescope/) is released as the first public high-resolution
+    wildfire-risk map for Europe, together with FireScope-Bench. The system reasons
+    over Sentinel-2 imagery and climate variables and is accepted to CVPR 2026.
+    The team includes [Mario Markov](/people/mario-markov/), [Stefan Ailuro](/people/stefan-ailuro/),
+    [Luc Van Gool](/people/luc-van-gool/), and [Danda Paudel](/people/danda-paudel/).
+  link_url: https://insait.ai/announcing-firescope-ai-the-first-public-wildfire-risk-map-for-europe/
 - date: '2026-05-27'
   body: INSAIT announces [17 papers at CVPR 2026](https://insait.ai/insait-among-europes-top-institutions-at-cvpr-2026/),
     its strongest computer-vision presence so far. The accepted work spans robotics,
@@ -81,10 +149,19 @@
     with Snap and Adobe. The workshop focuses on AI systems that reason, plan, and
     execute multi-step visual-media workflows.
   link_url: https://insait.ai/insait-launches-cvpr-2026-workshop-on-agentic-ai-for-visual-media/
-- date: '2026-01-22'
-  body: '[Dannong Xu](/people/dannong-xu/) joins INSAIT as a PhD student in Computer
-    Vision, working on multimodal learning, large language models, and visual reasoning.'
-  link_url: https://www.linkedin.com/feed/update/urn:li:activity:7420018881118916610/
+- date: '2026-02-11'
+  body: >-
+    [Anna-Maria Halacheva](/people/anna-maria-halacheva/) co-organizes the 6th Workshop
+    on Open-World 3D Scene Understanding at CVPR 2026, with ETH Zurich, the Max
+    Planck Institute, Google, NVIDIA, TUM, Stanford, and others. One challenge
+    track builds on Articulate3D.
+  link_url: https://insait.ai/insait-and-leading-global-institutions-organize-a-special-workshop-at-cvpr-2026/
+- date: '2026-02-02'
+  body: >-
+    Google awards INSAIT $500,000 to continue research in computer vision, robotics,
+    and machine learning, extending a partnership that began with the institute's
+    launch.
+  link_url: https://insait.ai/google-awards-500000-to-insait/
 - date: '2026-01-19'
   body: '[Asen Nachkov](/people/asen-nachkov/) discusses [DiffSim Trinity](/demos/diffsim-trinity/)
     and safer autonomous driving on Bloomberg TV Bulgaria, explaining how differentiable
@@ -95,6 +172,13 @@
     decision-making on Bulgarian National Radio, highlighting the role of simulation
     and prediction in driving systems.'
   link_url: https://www.linkedin.com/feed/update/urn:li:activity:7417853102936018945/
+- date: '2026-01-12'
+  body: >-
+    [DiffSim Trinity](/demos/diffsim-trinity/) is introduced as a differentiable-simulation
+    paradigm for autonomous driving. It unifies sensing, action, and outcome so
+    policies can train through physical dynamics, covering control, counterfactual
+    planning, and online trajectory search.
+  link_url: https://insait.ai/insait-introduces-diffsim-trinity-a-new-paradigm-for-autonomous-driving-based-on-differentiable-simulation/
 - date: '2026-01-08'
   body: '[Ruibo Ming](/people/ruibo-ming/) joins INSAIT as a PhD student in the Computer
     Vision group, working on video generation, autonomous driving, 3D reconstruction,
@@ -156,24 +240,49 @@
   body: '[SPEAR-1](/demos/spear-1/) is featured on Bulgarian National Television as
     a robotics foundation model built around spatial reasoning and 3D understanding.'
   link_url: https://www.linkedin.com/feed/update/urn:li:activity:7387755521057001472/
+- date: '2025-10-23'
+  body: >-
+    [SPEAR-1](/demos/spear-1/) is released as Europe's first open robotic foundation
+    model trained on 3D data. It matches or exceeds models such as OpenVLA and pi0.5
+    with up to 20x less robot demonstration data. The team includes [Nikolay Nikolov](/people/nikolay-nikolov/),
+    [Giuliano Albanese](/people/giuliano-albanese/), [Sombit Dey](/people/sombit-dey/),
+    [Luc Van Gool](/people/luc-van-gool/), and [Danda Paudel](/people/danda-paudel/).
+  link_url: https://insait.ai/insait-unveils-spear-1-europes-first-open-robotic-foundation-model-trained-on-3d-data/
+- date: '2025-10-21'
+  body: >-
+    Physics-IQ, led by [Saman Motamed](/people/sam-motamed/) with Google DeepMind,
+    is presented at ICCV 2025. The benchmark of 396 real-world videos shows that
+    generative video models can look convincing while missing the underlying physical
+    dynamics.
+  link_url: https://insait.ai/new-benchmark-physics-iq-challenges-ai-video-models-understanding-of-the-physical-world/
 - date: '2025-10-20'
-  body: Jan-Nico Zaech gives an ICCV 2025 workshop keynote on robotic AI and industrial
-    transfer, highlighting how foundation data can support more capable robots.
-  link_url: https://www.linkedin.com/feed/update/urn:li:activity:7385948624750383105/
+  body: >-
+    Jan-Nico Zaech gives an ICCV 2025 workshop keynote on foundation data for industrial
+    transfer. The talk shows how human video and other non-robot data can support
+    more capable robots, connecting [MotoVLA](/demos/motovla/), [ReVLA](/publications/revla-reverting-visual-domain-limitation-of-robotic-foundation-models/), [GaussianVLM](/demos/gaussianvlm/),
+    and Articulate3D.
+  link_url: https://insait.ai/nsait-featured-at-iccv-2025-workshop-on-foundation-data-for-industrial-tech-transfer/
 - date: '2025-10-17'
   body: '[Stefan Ailuro](/people/stefan-ailuro/) joins INSAIT as a PhD student in
     Computer Vision, working with [Luc Van Gool](/people/luc-van-gool/) and [Danda
     Paudel](/people/danda-paudel/).'
   link_url: https://www.linkedin.com/feed/update/urn:li:activity:7384852904169476096/
 - date: '2025-10-16'
-  body: INSAIT announces 13 ICCV 2025 papers and a major computer-vision presence
-    in Hawaii, including work across 3D vision, robotics, perception, and multimodal
-    AI.
-  link_url: https://www.linkedin.com/feed/update/urn:li:activity:7384496163737112576/
+  body: INSAIT brings 14 accepted papers to ICCV 2025 in Hawaii, with a booth alongside
+    Google, Meta, and Sony and work across robotics, embodied AI, 3D vision, and
+    foundation models.
+  link_url: https://insait.ai/insait-with-a-leading-presence-at-iccv-2025-one-of-the-worlds-top-ai-forums/
 - date: '2025-10-08'
   body: INSAIT co-organizes the OpenSUN3D challenges at ICCV 2025 with Stanford, ETH
     Zurich, Google, NVIDIA, Microsoft, and TUM, advancing open-world 3D scene understanding.
   link_url: https://www.linkedin.com/feed/update/urn:li:activity:7381588953218580480/
+- date: '2025-10-07'
+  body: >-
+    [ObjectRelator](/demos/objectrelator/) is selected as a Highlight Paper at ICCV
+    2025. The model relates the same object across egocentric and exocentric views,
+    beyond single-image segmentation. [Danda Paudel](/people/danda-paudel/) and
+    [Luc Van Gool](/people/luc-van-gool/) are among the authors.
+  link_url: https://insait.ai/insait-research-selected-as-highlight-paper-at-iccv-2025/
 - date: '2025-10-03'
   body: INSAIT's robotics team presents at CoRL 2025 and qualifies for the Real Robot
     Challenge, bringing the group's embodied-AI work into a leading robotics venue.
@@ -212,14 +321,14 @@
     and egocentric AI.
   link_url: https://www.linkedin.com/feed/update/urn:li:activity:7365646617946861569/
 - date: '2025-08-13'
-  body: '[Berke Gokmen](/people/berke-gokmen/) joins INSAIT for a long-term research
+  body: Berke Gokmen joins INSAIT for a long-term research
     visit in Computer Vision and AI, working on 3D scene generation and generative
-    vision models.'
+    vision models.
   link_url: https://www.linkedin.com/feed/update/urn:li:activity:7361305455190519808/
 - date: '2025-08-07'
   body: INSAIT co-organizes the OpenSUN3D Workshop at ICCV 2025, focused on open-vocabulary
     and open-world 3D scene understanding.
-  link_url: https://www.linkedin.com/feed/update/urn:li:activity:7359124591870382080/
+  link_url: https://insait.ai/insait-to-co-organize-opensun3d-workshop-at-iccv-2025/
 - date: '2025-08-05'
   body: INSAIT co-organizes the Physics-IQ Challenge at ICCV 2025, a benchmark for
     evaluating whether generative models produce physically plausible videos.
@@ -281,3 +390,57 @@
     is accepted to CVPR 2025. The work introduces an auto-exploration pipeline for
     training generative interactive environments without human demonstrations.'
   link_url: https://www.linkedin.com/feed/update/urn:li:activity:7336652935277219840/
+- date: '2025-05-23'
+  body: >-
+    [ReVLA](/publications/revla-reverting-visual-domain-limitation-of-robotic-foundation-models/)
+    is accepted to ICRA 2025, the first Bulgarian paper at the conference in years.
+    [Sombit Dey](/people/sombit-dey/), [Nikolay Nikolov](/people/nikolay-nikolov/),
+    [Luc Van Gool](/people/luc-van-gool/), and [Danda Paudel](/people/danda-paudel/)
+    show that gradual backbone reversal restores visual robustness when robotic
+    foundation models leave their training domain.
+  link_url: https://insait.ai/insait-makes-history-at-icra-2025-with-breakthrough-research-in-robotic-visual-generalization/
+- date: '2025-04-07'
+  body: >-
+    vivo and INSAIT announce a partnership on 3D scene understanding for mobile
+    applications, including research funding for doctoral and postdoctoral work
+    on scene understanding, intuitive editing, and interactive 3D experiences.
+  link_url: https://insait.ai/insait-and-vivo-announce-partnership-on-3d-scene-understanding/
+- date: '2024-09-27'
+  body: >-
+    INSAIT joins ECCV 2024 in Milan with 17 accepted papers spanning vision-language
+    models, 3D segmentation, and related topics, and hosts booth 48.
+  link_url: https://insait.ai/insait-is-heading-to-eccv2024-in-milan-from-29-september-to-04-october/
+- date: '2024-07-12'
+  body: >-
+    INSAIT has 17 papers accepted at ECCV 2024, spanning text-to-image diffusion,
+    vision-language models, open-vocabulary tracking, semantic segmentation, and
+    3D segmentation. Authors include [Luc Van Gool](/people/luc-van-gool/), [Danda
+    Paudel](/people/danda-paudel/), [Ajad Chhatkuli](/people/ajad-chhatkuli/), [Lei
+    Sun](/people/lei-sun/), and [Saman Motamed](/people/sam-motamed/).
+  link_url: https://insait.ai/17-eccv-papers-accepted/
+- date: '2024-07-12'
+  body: >-
+    [Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM](/publications/ternary-type-opacity-and-hybrid-odometry-for-rgb-only-nerf-slam/)
+    is accepted to IROS 2024. [Asen Nachkov](/people/asen-nachkov/), [Luc Van Gool](/people/luc-van-gool/),
+    and [Danda Paudel](/people/danda-paudel/) replace binary opacity with ternary-type
+    opacity so RGB-only NeRF-SLAM can optimize opaque surfaces more reliably.
+  link_url: https://insait.ai/insait-with-first-accepted-paper-at-iros/
+- date: '2024-04-10'
+  body: >-
+    Toyota and INSAIT begin a collaboration on AI and robotics led by [Luc Van Gool](/people/luc-van-gool/).
+    The first step funds PhD research toward Toyota's Human Support Robot initiative,
+    combining computer vision and language for longer independent living.
+  link_url: https://insait.ai/toyota-insait-collaboration/
+- date: '2024-03-26'
+  body: >-
+    INSAIT has 16 papers accepted at CVPR 2024, placing Bulgaria in the top 10
+    countries by acceptances. The papers cover multimodal AI, autonomous driving,
+    generative models, and foundation models.
+  link_url: https://insait.ai/cvpr-2024/
+- date: '2023-10-10'
+  body: >-
+    INSAIT presents 5 papers at ICCV 2023 in Paris, the first time a Bulgarian
+    institution appears at the conference. The work covers object pop-out, deformable
+    neural radiance fields from RGB and event cameras, online lane-graph extraction,
+    Manhattan-scene reconstruction, and face inpainting.
+  link_url: https://insait.ai/iccv-2023/
