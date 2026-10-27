@@ -5,7 +5,7 @@ name_display: Letian Shi
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-08"
-order: 0
+order: 7
 topics:
 working_with:
   - luc-van-gool

@@ -5,7 +5,7 @@ name_display: Asen Nachkov
 title_en: "PhD Student"
 role: phd
 start_date: "2022-10-04"
-order: 0
+order: 23
 topics:
 working_with:
   - luc-van-gool

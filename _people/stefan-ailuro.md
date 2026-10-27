@@ -5,7 +5,7 @@ name_display: Stefan Maria Ailuro
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-10"
-order: 0
+order: 8
 topics:
   - space-ai
 working_with:

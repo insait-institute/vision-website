@@ -107,7 +107,7 @@ layout: default
 </section>
 {% endif %}
 
-{% assign people_by_start = site.people | sort: "start_date" %}
+{% assign people_by_start = site.people | sort: "order" %}
 {% assign phd_like_count = 0 %}
 {% for person in people_by_start %}
 {% if person.role == 'phd' or person.role == 'student' %}{% assign phd_like_count = phd_like_count | plus: 1 %}{% endif %}

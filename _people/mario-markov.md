@@ -5,7 +5,7 @@ name_display: Mario Markov
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-11"
-order: 0
+order: 9
 topics:
   - space-ai
 working_with:

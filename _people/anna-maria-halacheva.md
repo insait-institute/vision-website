@@ -5,7 +5,7 @@ name_display: Anna-Maria Halacheva
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-12"
-order: 0
+order: 19
 topics:
   - 3d-vision
   - robotics

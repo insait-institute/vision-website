@@ -5,7 +5,7 @@ name_display: Ruibo Ming
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-06"
-order: 0
+order: 6
 topics:
   - vision-agent
 working_with:

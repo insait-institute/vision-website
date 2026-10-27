@@ -5,7 +5,7 @@ name_display: Nedyalko Prisadnikov
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-29"
-order: 0
+order: 21
 topics:
 working_with:
   - danda-paudel

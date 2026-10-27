@@ -5,7 +5,7 @@ name_display: Deheng Zhang
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-13"
-order: 0
+order: 11
 topics:
   - 3d-vision
 working_with:

@@ -5,7 +5,7 @@ name_display: Nedko Savov
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-25"
-order: 0
+order: 17
 topics:
 working_with:
   - luc-van-gool

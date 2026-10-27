@@ -5,7 +5,7 @@ name_display: Giuliano Albanese
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-24"
-order: 0
+order: 16
 topics:
   - robotics
 working_with:

@@ -5,7 +5,7 @@ name_display: Runyi Yang
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-26"
-order: 0
+order: 18
 topics:
   - 3d-vision
 working_with:

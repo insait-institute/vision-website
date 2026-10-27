@@ -5,7 +5,7 @@ name_display: Sombit Dey
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-27"
-order: 0
+order: 20
 topics:
   - robotics
 working_with:

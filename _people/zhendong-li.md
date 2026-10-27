@@ -5,7 +5,7 @@ name_display: Zhendong Li
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-15"
-order: 0
+order: 10
 topics:
   - vision-agent
 working_with:

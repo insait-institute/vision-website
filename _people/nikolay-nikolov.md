@@ -5,7 +5,7 @@ name_display: Nikolay Nikolov
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-16"
-order: 0
+order: 12
 topics:
   - robotics
 working_with:

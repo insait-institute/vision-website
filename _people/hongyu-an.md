@@ -5,7 +5,7 @@ name_display: Hongyu An
 title_en: "PhD Student"
 role: phd
 start_date: "2022-09-03"
-order: 0
+order: 5
 topics:
   - visual-media
 working_with:
