@@ -1,5 +1,11 @@
 # Vision Lab news feed (used by /news/)
 # body: Markdown (inline links to people, demos, publications)
+- date: '2026-10-26'
+  body: >-
+    INSAIT and NVIDIA launch [LADDER](/demos/ladder/), a public benchmark for
+    everyday multi-step robot manipulation, on real robots and in simulation.
+    Frontier models lead the leaderboard, but still fail many of the longer tasks.
+  link_url: https://insait.ai/ladder-a-new-benchmark-for-evaluating-ai-on-complex-robot-tasks/
 - date: '2026-09-17'
   body: >-
     INSAIT wraps up ECCV 2026 in Malmö with 10 main-track papers, ranking 5th
