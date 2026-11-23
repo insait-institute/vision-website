@@ -1,5 +1,10 @@
 # Vision Lab news feed (used by /news/)
 # body: Markdown (inline links to people, demos, publications)
+- date: '2026-11-16'
+  body: >-
+    [Dr. Gencer Sumbul](/people/gencer-sumbul/) joins the INSAIT Vision group as
+    a new faculty member.
+  link_url: https://insait.ai/dr-gencer-sumbul-joins-insait-to-advance-ai-for-earth-observation/
 - date: '2026-10-26'
   body: >-
     INSAIT and NVIDIA launch [LADDER](/demos/ladder/), a public benchmark for
